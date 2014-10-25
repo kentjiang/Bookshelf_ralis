@@ -1,1 +1,17 @@
+Bookshelf based on ruby on rails
 
+Feature:
+
+1. you can create, delete, edit, view your posted book list.
+
+2. any user can view and only view their own posts.
+
+How to use:
+
+1. git clone https://github.com/kentjiang/Bookshelf_ralis
+
+2. bundle install
+
+3. rake db:migrate
+
+4. rails s
